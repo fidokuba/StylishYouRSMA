@@ -10,4 +10,4 @@ Importing into PowerApps:
 1. Download StylishYou-RSMA_Dev_v1.x.x.x_.zip
 2. Go into make.powerapps.com
 3. Load the environment you want the app to be in
-4. On the apps list, click on Import and select the StylishYou-RSMA_Dev_20210304162700.zip
+4. On the apps list, click on Import and select the StylishYou-RSMA_Dev_v1.x.x.x_.zip
