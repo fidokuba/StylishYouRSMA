@@ -7,7 +7,7 @@ Source Code:
 *** Note: The .Zip and .MSAPP files are the app files, the source code from PowerApps is extracted from the .MSAPP file.
 
 Importing into PowerApps:
-1. Download StylishYou-RSMA_Dev_20210304162700.zip
+1. Download StylishYou-RSMA_Dev_v1.x.x.x_20210304162700.zip
 2. Go into make.powerapps.com
 3. Load the environment you want the app to be in
 4. On the apps list, click on Import and select the StylishYou-RSMA_Dev_20210304162700.zip
